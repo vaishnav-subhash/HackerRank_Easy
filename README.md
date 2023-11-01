@@ -1,1 +1,1 @@
-# HackerRank_Easy
+# HackerRank
